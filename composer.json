@@ -1,0 +1,25 @@
+{
+    "name": "basteyy/file-registry",
+    "type": "library",
+    "description": "A registry for files",
+    "keywords": ["files", "php", "database", "uploads"],
+    "homepage": "https://github.com/basteyy/file-registry",
+    "license": "CC-BY-NC-SA-4.0",
+    "authors": [
+        {
+            "name": "Sebastian Eiweleit",
+            "email": "sebastian@eiweleit.de",
+            "homepage": "https://eiweleit.de",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "basteyy\\FileRegistry\\": "src"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "jajo/jsondb": "^v3.0"
+    }
+}
