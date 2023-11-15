@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 /**
- * @author Sebastian Eiweleit <sebastian@eiweleit.de>
+ * @author basteyy <sebastian@xzit.online>
  */
 
 namespace basteyy\FileRegistry\Interface;
